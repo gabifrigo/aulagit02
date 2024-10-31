@@ -1,1 +1,3 @@
 Na primeira aula vimos um pouco da historia do git, quem criou, qual a sua finalidade, quando se popularizou, por quem é usado. Em seguida vimos que o git é nossa ferramenta de controle e o GitHub é o nosso hospedeiro fizemos a configuração inicial de email e usarnarme para dar entrada no GitHub.
+
+a
